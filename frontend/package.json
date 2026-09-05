@@ -10,10 +10,16 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@types/canvas-confetti": "^1.9.0",
     "@vitejs/plugin-react": "latest",
+    "canvas-confetti": "^1.9.4",
+    "clsx": "^2.1.1",
     "cytoscape": "^3.33.1",
+    "lucide-react": "^1.41.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "recharts": "^3.10.1",
+    "tailwind-merge": "^3.6.0",
     "vite": "latest"
   },
   "devDependencies": {
